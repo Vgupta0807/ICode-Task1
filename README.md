@@ -1,4 +1,3 @@
-# ICode-Task1
 ## Task Manager Website 📝
 This is a simple and intuitive task manager website that helps you organize and track your tasks effectively. It allows you to create tasks, set deadlines, mark tasks as completed, and prioritize your work.
 
